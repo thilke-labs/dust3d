@@ -1,0 +1,35 @@
+<!-- project-homepage-manifest.v1
+{
+  "id": "dust3d-homepage",
+  "kind": "project_homepage",
+  "repository": "graphics/dust3d",
+  "schema_version": "presentation-platform.homepage.v1",
+  "sections": [
+    {
+      "id": "purpose",
+      "title": "Purpose",
+      "body": "Cross-platform 3D modeling software for game assets, 3D printing, rigging, procedural animation, UV unwrapping, and GLB/FBX export.",
+      "links": [
+        {
+          "label": "Repository README",
+          "path": "README.md"
+        }
+      ]
+    }
+  ],
+  "status": "active",
+  "summary": "Cross-platform 3D modeling software for game assets, 3D printing, rigging, procedural animation, UV unwrapping, and GLB/FBX export.",
+  "title": "Dust3D",
+  "version": "1.0.0"
+}
+-->
+
+# Dust3D
+
+Cross-platform 3D modeling software for game assets, 3D printing, rigging, procedural animation, UV unwrapping, and GLB/FBX export.
+
+## Purpose
+
+Cross-platform 3D modeling software for game assets, 3D printing, rigging, procedural animation, UV unwrapping, and GLB/FBX export.
+
+- [Repository README](README.md)
